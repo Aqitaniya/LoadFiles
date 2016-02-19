@@ -1,0 +1,34 @@
+.bd_error,
+.load_error{
+    background-color: #CCCCCC;
+    border-radius: 5px;
+    padding: 10px;
+    width: 50%;
+    margin: 20px auto;
+
+    color: #ff150e;
+}
+form, table{
+    background-color: #CCCCCC;
+    border-radius: 5px;
+    padding: 10px;
+    width: 50%;
+    margin: 20px auto;
+}
+    input{
+        margin: 10px;
+    }
+    .submitFiles{
+        margin-left: 10px;
+    }
+
+    thead{
+        background-color: slategray;
+    }
+    tbody{
+        border: 1px solid #CCCCCC;
+    }
+        td{
+            border-top: 1px solid slategray;
+        }
+
